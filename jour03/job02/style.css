@@ -1,0 +1,20 @@
+
+#melangees{
+
+  border:solid;
+  width: 45%;
+}
+
+
+#rangees{
+  border:solid;
+   width: 45%;
+}
+#gagne{
+	color: green;
+	text-align: center;
+}
+#perdu{
+	color: red;
+	text-align: center;
+}
